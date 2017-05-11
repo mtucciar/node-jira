@@ -1,11 +1,12 @@
 {
   "name": "jira",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "Wrapper for the JIRA API",
   "author": "Steven Surowiec <steven.surowiec@gmail.com>",
   "contributors": [
     "Chris Moultrie <chris@moultrie.org>",
-    "Lucas Vogelsang <l@lucasvo.com>"
+    "Lucas Vogelsang <l@lucasvo.com>",
+	"Matthew Tucciarone"
   ],
   "homepage": "http://github.com/steves/node-jira",
   "repository": {
